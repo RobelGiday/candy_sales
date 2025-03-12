@@ -7,6 +7,10 @@
     - [Objective](#objective)
       - [Scope](#scope)
 - [Data Structure](#data-structure)
+- [Executive Summary](#executive-summary)
+- [Insights Deep Dive](#insights-deep-dive)
+- [Recommendations](#recommendations)
+
 
 # Background and Overview
 ## Introduction
