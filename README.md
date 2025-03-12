@@ -28,3 +28,16 @@ An interactive Power BI dashboard can be downloaded here.
 # Data Structure
 The US Candy Distributor database structure, as seen below, consists of six tables: date, location, candy_sales, candy_products, candy_targets and candy_factories with a total row count of x records.
 ![erd](candy_sales_ERD.png)
+
+
+## Recommendation
+•	Strengthen partnerships with high-performing factories like “Wicked Choccy’s and Lot’s O’ Nuts.
+•	Explore growth potential for underperforming but unique candies such as Fun Dip, Nerds etc.
+•	Monitor cost efficiency to sustain profitability as the sales increase.
+•	Focus on sustaining the growth of chocolate products while exploring the opportunities to diversify sales across other categories. 
+•	Evaluate the performance of underutilised factories and shipping modes for potential optimisation. 
+•	Leverage seasonal trends by scaling inventory and promotions for peak sales season between September to December. 
+•	Analyse underperforming periods between January to March for improvement opportunities.
+•	Strengthen operation and marketing efforts in states like California, New York and Texas to maximise returns.
+
+
