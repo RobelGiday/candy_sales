@@ -7,3 +7,4 @@
     - [Objective](#objective)
       - [Scope](#scope)
 - [Data Structure](#data-structure)
+![erd](candy_sales_ERD.png)
