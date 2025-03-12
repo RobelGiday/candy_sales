@@ -31,6 +31,7 @@ The US Candy Distributor database structure, as seen below, consists of six tabl
 
 
 ## Recommendation
+
 •	Strengthen partnerships with high-performing factories like “Wicked Choccy’s and Lot’s O’ Nuts.
 •	Explore growth potential for underperforming but unique candies such as Fun Dip, Nerds etc.
 •	Monitor cost efficiency to sustain profitability as the sales increase.
