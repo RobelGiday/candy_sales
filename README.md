@@ -50,11 +50,19 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
 * Yearly Growth: From 2023 sales grew by an average of 27% per year, driven by increased demand for popular candies.
 * Profitability: Gross profit reached $30K in 2024
 
-### Factory Sales Insight
+### Factory Sales Insight for 2024
 * Factory Performance
-    * Year to year Lot's O' Nut's has led total sales accounting for $24k in sales, netting $16.5k profits with 1.79k sale transcations.
+    * Year to year Lot's O' Nut's has always led total sales however in 2024 it generated $24k in sales, netting $16.5k profits with 1.79k sale transcations.
     *  Followed by Wicked Choccy's with $17K in sales, $11.4k in gross profits and 1.3k in sale transcations.
-    *  In contrast, Secret Factory generated only $3k in sales while The Other Factory and Sugar Shack
+    *  In contrast, Secret Factory generated only $3k in sales while The Other Factory and Sugar Shack were non-contributors with less than $500 in sales and $50 in profits.
+* Divisional Targets
+     * The Chocolate division accounted for 91% of total sales and exceeded its target by 152%.
+     * Similar Other achieved exceeded its target by 112% whereas the sugar division missed its target entirely.
+* Shipping preferences
+    * Standard class was the most utilised shipping method making up 60% of transactions, indicating its cost-effectiveness and customer preference.
+ 
+### Candy Sales Insight for 2024
+
 
 ## Recommendation
 •	Strengthen partnerships with high-performing factories like “Wicked Choccy’s and Lot’s O’ Nuts.
