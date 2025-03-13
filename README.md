@@ -41,10 +41,13 @@ The US Candy Distributor database structure, as seen in Figure 1 consists of six
 ## Executive Summary
 ### Overview of Findings
 From 2021 to 2024, the total sales increased steadily, with the highest revenue in 2024 of $45K. Key findings include:
-•	Sales increased from $27 in 2021 to $45k in 2024.
-•	Gross profit exhibited steady growth, reaching $30K in 2024
-•	The number of sales grew consistently, peaking at 3210 in 2024, indicating expanded market reach. 
-
+* Top Performers:
+    * Lot's O' Nuts is the largest contributors, responsible for 53.85% of total sales.
+    * The Wonka Bar - Triple Dazzel Caramel from generated the highest revenue ($27.25K), followed closely by Scrumdidlyumptious with $26.42k in sales.
+* Under Performers:
+    * Sugar Schack contribute is only responsible for 0.16% of the total sales.
+* Yearly Growth: From 2023 sales grew by an average of 27% per year, driven by increased demand for popular candies.
+* Profitability: Gross profit reached $30K in 2024
 
 ## Recommendation
 •	Strengthen partnerships with high-performing factories like “Wicked Choccy’s and Lot’s O’ Nuts.
