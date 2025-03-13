@@ -7,7 +7,7 @@
     - [Objective](#objective)
       - [Scope](#scope)
 - [Data Structure](#data-structure)
-      - [Figure 1: Entity Relationship Diagram](#figure-1-:-entity-relationship-diagram)
+    - [Figure 1: Entity Relationship Diagram](#figure-1-:-entity-relationship-diagram)
 - [Executive Summary](#executive-summary)
 - [Insights Deep Dive](#insights-deep-dive)
 - [Recommendations](#recommendations)
@@ -35,7 +35,7 @@ An interactive Power BI dashboard can be downloaded here.
 # Data Structure
 The US Candy Distributor database structure, as seen in Figure 1 consists of six tables: date, location, candy_sales, candy_products, candy_targets and candy_factories with a total row count of 13 993 records. This analysis does not include the candies sales to Canada.
 
-### Figure 1: Entity Relationship Diagram
+## Figure 1: Entity Relationship Diagram
 ![ERD](candy_sales_ERD.png)
 
 
