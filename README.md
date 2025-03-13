@@ -64,14 +64,19 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
 ### Candy Sales Insight for 2024
 
 
-## Recommendation
-•	Strengthen partnerships with high-performing factories like “Wicked Choccy’s and Lot’s O’ Nuts.
-•	Explore growth potential for underperforming but unique candies such as Fun Dip, Nerds etc.
-•	Monitor cost efficiency to sustain profitability as the sales increase.
-•	Focus on sustaining the growth of chocolate products while exploring the opportunities to diversify sales across other categories. 
-•	Evaluate the performance of underutilised factories and shipping modes for potential optimisation. 
-•	Leverage seasonal trends by scaling inventory and promotions for peak sales season between September to December. 
-•	Analyse underperforming periods between January to March for improvement opportunities.
-•	Strengthen operation and marketing efforts in states like California, New York and Texas to maximise returns.
+## Recommendations
+*	Strengthen partnerships with high-performing factories like Lot’s O’ Nuts and Wicked Choccy’s to sustain their momentum and meet demand.
+*	Explore growth potential for underperforming but unique candies such as Fun Dip, Nerds etc.
+*	Monitor cost efficiency to sustain profitability as the sales increase.
+*	Expand Divisional Performance 
+    *	Focus on sustaining the growth of chocolate products while exploring the opportunities to diversify sales across other categories.
+    *	Launch targeted campaigns for Sugar and Other divisions to diversify revenue streams and meet divisional goals.
+* Enhance Logistics
+    *	Focus on improving Standard Class shipping while reassessing the relevance and efficiency of Same Day shipping.
+* Leverage Seasonal Trends
+    * Strengthen marketing efforts in August to boost pre holiday sales.
+    * Scale inventory for peak demand periods between September to December.
+    * Analyse underperforming periods between January to March for improvement opportunities i.e. generate demandad for Valentine's Day and Easter.
+*	Strengthen operation and marketing efforts in states like California, New York and Texas to maximise returns.
 
 
