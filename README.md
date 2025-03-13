@@ -43,11 +43,18 @@ The US Candy Distributor database structure, as seen in Figure 1 consists of six
 From 2021 to 2024, the total sales increased steadily, with the highest revenue in 2024 of $45K. Key findings include:
 * Top Performers:
     * Lot's O' Nuts is the largest contributors, responsible for 53.85% of total sales.
-    * The Wonka Bar - Triple Dazzel Caramel from generated the highest revenue ($27.25K), followed closely by Scrumdidlyumptious with $26.42k in sales.
+    * The Wonka Bar - Triple Dazzel Caramel from Wicked Choccy's generated the highest revenue $27.25K, followed closely by Lot's O' Nuts Wonka Bar - Scrumdidlyumptious with $26.42k in sales.
 * Under Performers:
-    * Sugar Schack contribute is only responsible for 0.16% of the total sales.
+    * Sugar Shack contribute is only responsible for 0.16% of the total sales which is $220.98 in sales.
+    * Sugar Shack's Fun Dip is lowest selling candies only $12 in sales.
 * Yearly Growth: From 2023 sales grew by an average of 27% per year, driven by increased demand for popular candies.
 * Profitability: Gross profit reached $30K in 2024
+
+### Factory Sales Insight
+* Factory Performance
+    * Year to year Lot's O' Nut's has led total sales accounting for $24k in sales, netting $16.5k profits with 1.79k sale transcations.
+    *  Followed by Wicked Choccy's with $17K in sales, $11.4k in gross profits and 1.3k in sale transcations.
+    *  In contrast, Secret Factory generated only $3k in sales while The Other Factory and Sugar Shack
 
 ## Recommendation
 •	Strengthen partnerships with high-performing factories like “Wicked Choccy’s and Lot’s O’ Nuts.
