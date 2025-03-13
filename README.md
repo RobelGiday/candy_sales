@@ -34,7 +34,7 @@ An interactive Power BI dashboard can be downloaded here.
 # Data Structure
 The US Candy Distributor database structure, as seen in Figure 1 consists of six tables: date, location, candy_sales, candy_products, candy_targets and candy_factories with a total row count of 13 993 records. This analysis does not include the candies sales to Canada.
 
-###Figure 1: Entity Relationship Diagram
+### Figure 1: Entity Relationship Diagram
 ![erd](candy_sales_ERD.png)
 
 
