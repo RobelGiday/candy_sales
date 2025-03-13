@@ -38,6 +38,13 @@ The US Candy Distributor database structure, as seen in Figure 1 consists of six
 ## Figure 1: Entity Relationship Diagram
 ![ERD](candy_sales_ERD.png)
 
+## Executive Summary
+### Overview of Findings
+From 2021 to 2024, the total sales increased steadily, with the highest revenue in 2024 of $45K. Key findings include:
+•	Sales increased from $27 in 2021 to $45k in 2024.
+•	Gross profit exhibited steady growth, reaching $30K in 2024
+•	The number of sales grew consistently, peaking at 3210 in 2024, indicating expanded market reach. 
+
 
 ## Recommendation
 •	Strengthen partnerships with high-performing factories like “Wicked Choccy’s and Lot’s O’ Nuts.
