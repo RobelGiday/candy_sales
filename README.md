@@ -9,7 +9,9 @@
 - [Data Structure](#data-structure)
 - [Figure 1: Entity Relationship Diagram](#figure-1:-entity-relationship-diagram)
 - [Executive Summary](#executive-summary)
-    - [Overview of Findings](#overview-of-findings) 
+    - [Overview of Findings](#overview-of-findings)
+    - [Factory Sales Insight for 2024](#factory-sales-insight-for-2024)
+    - [Candy Sales Insight for 2024](#candy-sales-insight-for-2024)
 - [Insights Deep Dive](#insights-deep-dive)
 - [Recommendations](#recommendations)
 
