@@ -66,10 +66,16 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
     * Limited usage of Same Day shipping of 177 transactions suggests it is less critical to overall operations.
  
 ### Candy Sales Insight for 2024
-* Top Selling candies
+* Product Performances
+    *  Wonka Bar - Triple Dazzel Caramel generated the highest revenue with $9.2K in sales.
+    *  Wonka Bar - Scrumdidlyumptious is the most profitability candy netting $6.1K in profits. 
+    *  Wonka Bar - Milk Chocolate best selling candy with 653 candy sales.
+* Seasonal Trends
+    * Sales peaked between October and December with $17.1K total sales.
+    * Whereas the period between January and March accounted for lowested candy sales for the year with $6.6K in sales.    
 * Regional Demand
-    * California outperformed other regions driven by higher customers counts and gross profits.
-    * Potential for market penetration exists in states such as Florida and Illinois 
+    * California outperformed other regions netting $6.16K in profits with 344 customers regeratefully tapping to only 0.007% population.
+    * Potential for market penetration exists for highly populate states such as Florida and Illinois.
 
 
 ## Recommendations
@@ -87,6 +93,7 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
     * Strengthen marketing efforts in August to boost pre holiday sales.
     * Scale inventory for peak demand periods between September to December.
     * Analyse underperforming periods between January to March for improvement opportunities i.e. generate demandad for Valentine's Day and Easter.
-*	Strengthen operation and marketing efforts in states like California, New York and Texas to maximise returns.
+*	Strengthen operation and marketing efforts in highly populate states like California, Texas and Florida to maximise returns.
+*	
 
 
