@@ -1,13 +1,13 @@
 # US Candy Distributor 
 
-# Table of Contents
+## Table of Contents
 
 - [Background and Overview](#background-and-overview)
     - [Introduction](#introduction)
     - [Objective](#objective)
       - [Scope](#scope)
 - [Data Structure](#data-structure)
-- [Figure 1: Entity Relationship Diagram](#figure-1:-entity-relationship-diagram)
+    - [Figure 1: Entity Relationship Diagram](#figure-1:-entity-relationship-diagram)
 - [Executive Summary](#executive-summary)
     - [Overview of Findings](#overview-of-findings)
     - [Factory Sales Insight for 2024](#factory-sales-insight-for-2024)
@@ -15,15 +15,14 @@
 - [Insights Deep Dive](#insights-deep-dive)
 - [Recommendations](#recommendations)
 
-
-# Background and Overview
-## Introduction
+## Background and Overview
+### Introduction
 The US candy industry is a multi-billion dollar market consisting of a diverse range of products. This project aims to analyse a dataset of US Candy Distributor obtained from Maven Analytics to uncover the key trends, consumer preferences and opportunities for market growth in the US. The US Candy Distributor has a partnership with five candy factories to distribute 15 different types of candies to customers.
 
-## Objective
+### Objective
 The primary objective of this analysis is to provide a detailed understanding of sales dynamics within the US candy market. This includes identifying the most popular candy types and sales trends from 2021 to 2024. By achieving these objectives, we aim to offer the distributor actionable information to enhance their market position and priorities on candies customers love. 
 
-### Scope
+#### Scope
 This analysis will encompass the following key areas:
 1.	Factory analysis: evaluating the sales data across different factories to uncover each factory's profitability.
 2.	Sales trends: examination of monthly, seasonal, and annual sales patterns to figure out peak periods and potential growth opportunities.
@@ -35,10 +34,10 @@ The SQL queries utilised to clean, organise, and prepare raw data for the dashbo
 
 An interactive Power BI dashboard can be downloaded here.
 
-# Data Structure
+## Data Structure
 The US Candy Distributor database structure, as seen in Figure 1 consists of six tables: date, location, candy_sales, candy_products, candy_targets and candy_factories with a total row count of 13 993 records. This analysis does not include the candies sales to Canada.
 
-## Figure 1: Entity Relationship Diagram
+### Figure 1: Entity Relationship Diagram
 ![ERD](candy_sales_ERD.png)
 
 ## Executive Summary
@@ -49,7 +48,7 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
     * The Wonka Bar - Triple Dazzel Caramel from Wicked Choccy's generated the highest revenue $27.25K, followed closely by Lot's O' Nuts Wonka Bar - Scrumdidlyumptious with $26.42k in sales.
 * Under Performers:
     * Sugar Shack contribute is only responsible for 0.16% of the total sales which is $220.98 in sales.
-    * Sugar Shack's Fun Dip is lowest selling candies only $12 in sales.
+    * Sugar Shack's Fun Dip is lowest selling candies with only $12 in sales.
 * Yearly Growth: From 2023 sales grew by an average of 27% per year, driven by increased demand for popular candies.
 * Profitability: Gross profit reached $30K in 2024
 
@@ -66,17 +65,18 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
     * Limited usage of Same Day shipping of 177 transactions suggests it is less critical to overall operations.
  
 ### Candy Sales Insight for 2024
-* Product Performances
+* Product Performances 
     *  Wonka Bar - Triple Dazzel Caramel generated the highest revenue with $9.2K in sales.
     *  Wonka Bar - Scrumdidlyumptious is the most profitability candy netting $6.1K in profits. 
     *  Wonka Bar - Milk Chocolate best selling candy with 653 candy sales.
+    *  Overall Wonka Bars from both Lot's O Nuts and Wicked Choccy's contribute to 92% of the sales in 2024.
+    *  Nerds generated $6 of revenue whereas Fun Dip generated 0 sales in 2024. 
 * Seasonal Trends
     * Sales peaked between October and December with $17.1K total sales.
     * Whereas the period between January and March accounted for lowested candy sales for the year with $6.6K in sales.    
 * Regional Demand
     * California outperformed other regions netting $6.16K in profits with 344 customers regeratefully tapping to only 0.007% population.
-    * Potential for market penetration exists for highly populate states such as Florida and Illinois.
-
+    * Potential for market penetration exists for highly populate states such as California, Texas and Florida.
 
 ## Recommendations
 *	Strengthen partnerships with high-performing factories like Lot’s O’ Nuts and Wicked Choccy’s to sustain their momentum and meet demand.
@@ -94,6 +94,5 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
     * Scale inventory for peak demand periods between September to December.
     * Analyse underperforming periods between January to March for improvement opportunities i.e. generate demandad for Valentine's Day and Easter.
 *	Strengthen operation and marketing efforts in highly populate states like California, Texas and Florida to maximise returns.
-*	
 
 
