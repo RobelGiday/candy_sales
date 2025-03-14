@@ -7,8 +7,9 @@
     - [Objective](#objective)
       - [Scope](#scope)
 - [Data Structure](#data-structure)
-    - [Figure 1: Entity Relationship Diagram](#figure-1-:-entity-relationship-diagram)
+- [Figure 1: Entity Relationship Diagram](#figure-1:-entity-relationship-diagram)
 - [Executive Summary](#executive-summary)
+    - [Overview of Findings](#overview-of-findings) 
 - [Insights Deep Dive](#insights-deep-dive)
 - [Recommendations](#recommendations)
 
