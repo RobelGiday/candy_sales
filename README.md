@@ -60,13 +60,20 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
      * Similar Other achieved exceeded its target by 112% whereas the sugar division missed its target entirely.
 * Shipping preferences
     * Standard class was the most utilised shipping method making up 60% of transactions, indicating its cost-effectiveness and customer preference.
+    * Limited usage of Same Day shipping of 177 transactions suggests it is less critical to overall operations.
  
 ### Candy Sales Insight for 2024
+* Top Selling candies
+* Regional Demand
+    * California outperformed other regions driven by higher customers counts and gross profits.
+    * Potential for market penetration exists in states such as Florida and Illinois 
 
 
 ## Recommendations
 *	Strengthen partnerships with high-performing factories like Lot’s O’ Nuts and Wicked Choccy’s to sustain their momentum and meet demand.
-*	Explore growth potential for underperforming but unique candies such as Fun Dip, Nerds etc.
+*	Address underperformance
+    * Reevaluate operations at The Other Factory and Sugar Shack reallocating resoucrces or shifting their focus to high demand products.
+    * Explore growth potential for underperforming but unique candies such as Fun Dip, Nerds etc.
 *	Monitor cost efficiency to sustain profitability as the sales increase.
 *	Expand Divisional Performance 
     *	Focus on sustaining the growth of chocolate products while exploring the opportunities to diversify sales across other categories.
