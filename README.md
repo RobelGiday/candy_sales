@@ -15,6 +15,8 @@
         - [Figure 3: Factory Sales 2024 Dashboard ](#figure-3:-factory-sales-2024-dashboard)
     - [Candy Sales Insight for 2024](#candy-sales-insight-for-2024)
         - [Figure 4: Candy Sales 2024 Dashboard](#figure-4:-candy-sales-2024-dashboard)
+        - [Figure 5: Candy Sales 2024 Q4 Dashboard](#figure-5:-candy-sales-2024-q4-dashboard)
+        - [Figure 6: Wicked Choccy's Candy Sales 2024 Dashboard](#figure-6:-wicked-choccy's-candy-sales-2024-dashboard)
 - [Recommendations](#recommendations)
 
 ## Background and Overview
@@ -92,10 +94,10 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
 ![candy](candy.png)
 
 #### Figure 5: Candy Sales 2024 Q4 Dashboard
-![candy_sales_2024_Q4](Candy_Sales_Insights_2024_Q4.png)
+![candy_sales_2024_Q4](candy_sales_insights_2024_q4.png)
 
 #### Figure 6: Wicked Choccy's Candy Sales 2024 Dashboard
-![Wicked](Wicked_Choccy_2024_Sales.png)
+![Wicked](wicked_choccy_2024_sales.png)
 
 ## Recommendations
 *	Improvement
