@@ -90,19 +90,21 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
 ![candy](candy.png)
 
 ## Recommendations
-*	Address underperformance
+## Recommendations
+*	Improvement
     *	Strengthen partnerships with high-performing factories like Lot’s O’ Nuts and Wicked Choccy’s to sustain their momentum and meet demand.
-    * Reevaluate operations at The Other Factory and Sugar Shack reallocating resoucrces or shifting their focus to high demand products.
-    * Explore growth potential for underperforming but unique candies such as Fun Dip, Nerds etc.
+    * Reevaluate operations at The Other Factory and Sugar Shack, reallocating resources or shifting focus to high-demand products.
+    * Explore growth potential for underperforming but unique candies such as Fun Dip and Nerds.
 *	Expand Divisional Performance 
     *	Focus on sustaining the growth of chocolate products while exploring the opportunities to diversify sales across other categories.
-    *	Launch targeted campaigns for Sugar and Other divisions to diversify revenue streams and meet divisional goals.
+    *	Launch targeted campaigns for Sugar and Other divisions to diversify revenue streams and achieve divisional goals.
 * Enhance Logistics
     *	Focus on improving Standard Class shipping while reassessing the relevance and efficiency of Same Day shipping.
-    *	Strengthen operation and marketing efforts in highly populate states like California, Texas and Florida to maximise returns.
+    *	Strengthen operation and marketing efforts in highly populated states like California, Texas and Florida to maximise returns.
 * Leverage Seasonal Trends
-    * Strengthen marketing efforts in August to boost pre holiday sales.
-    * Scale inventory for peak demand periods between September to December.
-    * Analyse underperforming periods between January to March for improvement opportunities i.e. generate demandad for Valentine's Day and Easter.
+    * Strengthen marketing efforts in August to boost pre-holiday sales.
+    * Scale inventory in the fourth quarter to meet peak demand.
+    * Offer discounts for Valentine's Day and Easter to promote demand in the first quarter.
+    * Encourage factories to create holiday-themed candies such as heart-shaped candy, easter eggs, gingerbread men, etc. 
 
 
