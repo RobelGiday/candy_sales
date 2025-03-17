@@ -7,12 +7,14 @@
     - [Objective](#objective)
       - [Scope](#scope)
 - [Data Structure](#data-structure)
-    - [Figure 1: Entity Relationship Diagram](#figure-1:-entity-relationship-diagram)
+        - [Figure 1: Entity Relationship Diagram](#figure-1:-entity-relationship-diagram)
 - [Executive Summary](#executive-summary)
     - [Overview of Findings](#overview-of-findings)
+        - [Figure 2: Overview Dashboard](#figure-2:-overview-dashboard)
     - [Factory Sales Insight for 2024](#factory-sales-insight-for-2024)
+        - [Figure 3: Factory Sales 2024 Dashboard ](#figure-3:-factory-sales-2024-dashboard)
     - [Candy Sales Insight for 2024](#candy-sales-insight-for-2024)
-- [Insights Deep Dive](#insights-deep-dive)
+        - [Figure 4: Candy Sales 2024 Dashboard](#figure-4:-candy-sales-2024-dashboard)
 - [Recommendations](#recommendations)
 
 ## Background and Overview
@@ -37,7 +39,7 @@ An interactive Power BI dashboard can be downloaded here.
 ## Data Structure
 The US Candy Distributor database structure, as seen in Figure 1 consists of six tables: date, location, candy_sales, candy_products, candy_targets and candy_factories with a total row count of 13 993 records. This analysis does not include the candies sales to Canada.
 
-### Figure 1: Entity Relationship Diagram
+#### Figure 1: Entity Relationship Diagram
 ![ERD](candy_sales_ERD.png)
 
 ## Executive Summary
@@ -52,6 +54,9 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
 * Yearly Growth: From 2023 sales grew by an average of 27% per year, driven by increased demand for popular candies.
 * Profitability: Gross profit reached $30K in 2024
 
+#### Figure 2: Overview Dashboard
+![overview](overview.png)
+
 ### Factory Sales Insight for 2024
 * Factory Performance
     * Year to year Lot's O' Nut's has always led total sales however in 2024 it generated $24k in sales, netting $16.5k profits with 1.79k sale transcations.
@@ -63,6 +68,9 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
 * Shipping preferences
     * Standard class was the most utilised shipping method making up 60% of transactions, indicating its cost-effectiveness and customer preference.
     * Limited usage of Same Day shipping of 177 transactions suggests it is less critical to overall operations.
+
+#### Figure 3: Factory Sales 2024 Dashboard 
+![factory](factory.png)
  
 ### Candy Sales Insight for 2024
 * Product Performances 
@@ -77,6 +85,9 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
 * Regional Demand
     * California outperformed other regions netting $6.16K in profits with 344 customers regeratefully tapping to only 0.007% population.
     * Potential for market penetration exists for highly populate states such as California, Texas and Florida.
+ 
+#### Figure 4: Candy Sales 2024 Dashboard
+![candy](candy.png)
 
 ## Recommendations
 *	Strengthen partnerships with high-performing factories like Lot’s O’ Nuts and Wicked Choccy’s to sustain their momentum and meet demand.
