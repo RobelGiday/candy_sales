@@ -30,7 +30,7 @@ This analysis will encompass the following key areas:
 2.	Sales trends: examination of monthly, seasonal, and annual sales patterns to figure out peak periods and potential growth opportunities.
 3.	Product performance: determine the best-selling candies.
 
-The raw data can be found here.
+The raw data can be found [here](https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&search=US%20Candy%20Distributor).
 
 The SQL queries utilised to clean, organise, and prepare raw data for the dashboard can be found here.
 
