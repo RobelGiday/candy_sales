@@ -90,7 +90,6 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
 ![candy](candy.png)
 
 ## Recommendations
-## Recommendations
 *	Improvement
     *	Strengthen partnerships with high-performing factories like Lot’s O’ Nuts and Wicked Choccy’s to sustain their momentum and meet demand.
     * Reevaluate operations at The Other Factory and Sugar Shack, reallocating resources or shifting focus to high-demand products.
