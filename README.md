@@ -30,9 +30,11 @@ This analysis will encompass the following key areas:
 2.	Sales trends: examination of monthly, seasonal, and annual sales patterns to figure out peak periods and potential growth opportunities.
 3.	Product performance: determine the best-selling candies.
 
-The raw data can be found [here](https://maven-datasets.s3.amazonaws.com/US+Candy+Distributor/US+Candy+Distributor.zip).
+The raw data can be downloaded [here](https://maven-datasets.s3.amazonaws.com/US+Candy+Distributor/US+Candy+Distributor.zip).
 
-The SQL queries utilised to clean, organise, and prepare raw data for the dashboard can be found here.
+The date table can be found [here](https://github.com/RobelGiday/candy_sales/blob/main/date_details.csv).
+
+The SQL queries utilised to clean, organise, and prepare raw data for the dashboard can be found [here](https://github.com/RobelGiday/candy_sales/blob/main/Data%20Cleaning%20US%20Candy%20Distributor.sql).
 
 An interactive Power BI dashboard can be downloaded [here](https://github.com/RobelGiday/candy_sales/raw/refs/heads/main/Candy_Sales.pbix).
 
@@ -88,6 +90,12 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
  
 #### Figure 4: Candy Sales 2024 Dashboard
 ![candy](candy.png)
+
+#### Figure 5: Candy Sales 2024 Q4 Dashboard
+![candy_sales_2024_Q4](Candy_Sales_Insights_2024_Q4.png)
+
+#### Figure 6: Wicked Choccy's Candy Sales 2024 Dashboard
+![Wicked](Wicked_Choccy_2024_Sales.png)
 
 ## Recommendations
 *	Improvement
