@@ -7,7 +7,7 @@
     - [Objective](#objective)
       - [Scope](#scope)
 - [Data Structure](#data-structure)
-        - [Figure 1: Entity Relationship Diagram](#figure-1:-entity-relationship-diagram)
+    - [Figure 1: Entity Relationship Diagram](#figure-1:-entity-relationship-diagram)
 - [Executive Summary](#executive-summary)
     - [Overview of Findings](#overview-of-findings)
         - [Figure 2: Overview Dashboard](#figure-2:-overview-dashboard)
@@ -46,27 +46,27 @@ The US Candy Distributor database structure, as seen in Figure 1 consists of six
 ### Overview of Findings
 From 2021 to 2024, the total sales increased steadily, with the highest revenue in 2024 of $45K. Key findings include:
 * Top Performers:
-    * Lot's O' Nuts is the largest contributors, responsible for 53.85% of total sales.
-    * The Wonka Bar - Triple Dazzel Caramel from Wicked Choccy's generated the highest revenue $27.25K, followed closely by Lot's O' Nuts Wonka Bar - Scrumdidlyumptious with $26.42k in sales.
+    * Lot's O' Nuts is the largest contributor, responsible for 53.85% of total sales.
+    * The Wonka Bar - Triple Dazzel Caramel from Wicked Choccy's generated the highest revenue of $27.25K, followed closely by Lot's O' Nuts Wonka Bar - Scrumdidlyumptious which achieved $26.42k in sales.
 * Under Performers:
-    * Sugar Shack contribute is only responsible for 0.16% of the total sales which is $220.98 in sales.
-    * Sugar Shack's Fun Dip is lowest selling candies with only $12 in sales.
-* Yearly Growth: From 2023 sales grew by an average of 27% per year, driven by increased demand for popular candies.
-* Profitability: Gross profit reached $30K in 2024
+    * Sugar Shack contributes only 0.16% of the total sales, amounting to $220.98.
+    * Sugar Shack's Fun Dip was the lowest-selling candy with just $12 in sales.
+* Yearly Growth: Starting in 2023 sales grew at an average rate of 27% per year, driven by increased demand for popular candies.
+* Profitability: Gross profit reached $30K in 2024.
 
 #### Figure 2: Overview Dashboard
 ![overview](overview.png)
 
 ### Factory Sales Insight for 2024
 * Factory Performance
-    * Year to year Lot's O' Nut's has always led total sales however in 2024 it generated $24k in sales, netting $16.5k profits with 1.79k sale transcations.
-    *  Followed by Wicked Choccy's with $17K in sales, $11.4k in gross profits and 1.3k in sale transcations.
-    *  In contrast, Secret Factory generated only $3k in sales while The Other Factory and Sugar Shack were non-contributors with less than $500 in sales and $50 in profits.
+    * Lot's O' Nut's consistently led total sales. In 2024 it generated $24k in sales, netting $16.5k profits with 1.79k sale transactions
+    *  This was followed by Wicked Choccy's, which achieved $17K in sales, $11.4k in gross profits and 1.3k in sale transactions.
+    *  In contrast, Secret Factory generated only $3k in sales, while The Other Factory and Sugar Shack were non-contributors with less than $500 in sales and $50 in profits.
 * Divisional Targets
      * The Chocolate division accounted for 91% of total sales and exceeded its target by 152%.
-     * Similar Other achieved exceeded its target by 112% whereas the sugar division missed its target entirely.
+     * Similarly, the Other division surpassed its target by 112%, whereas the Sugar Division missed its target entirely.
 * Shipping preferences
-    * Standard class was the most utilised shipping method making up 60% of transactions, indicating its cost-effectiveness and customer preference.
+    * Standard class was the most utilised shipping method, accounting for 60% of transactions. This indicates its cost-effectiveness and customer preference.
     * Limited usage of Same Day shipping of 177 transactions suggests it is less critical to overall operations.
 
 #### Figure 3: Factory Sales 2024 Dashboard 
