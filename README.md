@@ -73,37 +73,36 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
 ![factory](factory.png)
  
 ### Candy Sales Insight for 2024
-* Product Performances 
-    *  Wonka Bar - Triple Dazzel Caramel generated the highest revenue with $9.2K in sales.
-    *  Wonka Bar - Scrumdidlyumptious is the most profitability candy netting $6.1K in profits. 
-    *  Wonka Bar - Milk Chocolate best selling candy with 653 candy sales.
-    *  Overall Wonka Bars from both Lot's O Nuts and Wicked Choccy's contribute to 92% of the sales in 2024.
-    *  Nerds generated $6 of revenue whereas Fun Dip generated 0 sales in 2024. 
+* Product Performance
+    *  Wonka Bar - Triple Dazzel Caramel generated the highest revenue, with $9.2K in sales.
+    *  Wonka Bar - Scrumdidlyumptious was the most profitable candy, netting $6.1K in profits. 
+    *  Wonka Bar - Milk Chocolate was the best-selling candy, with 653 candy sales.
+    *  Overall, Wonka Bars from both Lot's O Nuts and Wicked Choccy's contributed to 92% of the sales in 2024.
+    *  Fun Dip recorded no sales in 2024. 
 * Seasonal Trends
-    * Sales peaked between October and December with $17.1K total sales.
-    * Whereas the period between January and March accounted for lowested candy sales for the year with $6.6K in sales.    
+    * Sales peaked between October and December, with total sales reaching $17.1K.
+    * In contrast, the period between January and March accounted for the lowest candy sales of the year, with $6.6K in total sales.    
 * Regional Demand
-    * California outperformed other regions netting $6.16K in profits with 344 customers regeratefully tapping to only 0.007% population.
-    * Potential for market penetration exists for highly populate states such as California, Texas and Florida.
+    * California outperformed other regions, netting $6.16K in profits from 344 customers. Regretfully, this represents only 0.007% of the state's population.
+    * There is potential for market penetration in highly populated states such as California, Texas and Florida.
  
 #### Figure 4: Candy Sales 2024 Dashboard
 ![candy](candy.png)
 
 ## Recommendations
-*	Strengthen partnerships with high-performing factories like Lot’s O’ Nuts and Wicked Choccy’s to sustain their momentum and meet demand.
 *	Address underperformance
+    *	Strengthen partnerships with high-performing factories like Lot’s O’ Nuts and Wicked Choccy’s to sustain their momentum and meet demand.
     * Reevaluate operations at The Other Factory and Sugar Shack reallocating resoucrces or shifting their focus to high demand products.
     * Explore growth potential for underperforming but unique candies such as Fun Dip, Nerds etc.
-*	Monitor cost efficiency to sustain profitability as the sales increase.
 *	Expand Divisional Performance 
     *	Focus on sustaining the growth of chocolate products while exploring the opportunities to diversify sales across other categories.
     *	Launch targeted campaigns for Sugar and Other divisions to diversify revenue streams and meet divisional goals.
 * Enhance Logistics
     *	Focus on improving Standard Class shipping while reassessing the relevance and efficiency of Same Day shipping.
+    *	Strengthen operation and marketing efforts in highly populate states like California, Texas and Florida to maximise returns.
 * Leverage Seasonal Trends
     * Strengthen marketing efforts in August to boost pre holiday sales.
     * Scale inventory for peak demand periods between September to December.
     * Analyse underperforming periods between January to March for improvement opportunities i.e. generate demandad for Valentine's Day and Easter.
-*	Strengthen operation and marketing efforts in highly populate states like California, Texas and Florida to maximise returns.
 
 
