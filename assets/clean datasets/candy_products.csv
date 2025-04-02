@@ -1,0 +1,16 @@
+product_id,product_name,unit_price,unit_cost,factory_id,target_id
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,3.49,1,1,1
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,3.6,1.2,1,1
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,3.6,1.1,1,1
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,3.25,1.14,2,1
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,3.75,1.3,2,1
+SUG-LAF-25000,Laffy Taffy,1.99,0.75,3,2
+SUG-SWE-91000,SweeTARTS,1.5,0.8,3,2
+SUG-NER-92000,Nerds,1.5,0.8,3,2
+SUG-FUN-75000,Fun Dip,1.5,0.9,3,2
+OTH-FIZ-56000,Fizzy Lifting Drinks,3.75,1.5,3,3
+SUG-EVE-47000,Everlasting Gobstopper,10,2,4,2
+SUG-HAI-55000,Hair Toffee,4.5,1,5,2
+OTH-LIC-15000,Lickable Wallpaper,20,10,4,3
+OTH-GUM-21000,Wonka Gum,1.25,0.6,4,3
+OTH-KAZ-38000,Kazookles,3.25,3,5,3
