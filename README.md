@@ -34,11 +34,11 @@ This analysis will encompass the following key areas:
 
 The raw data can be downloaded [here](https://maven-datasets.s3.amazonaws.com/US+Candy+Distributor/US+Candy+Distributor.zip).
 
-The date table can be found [here](https://github.com/RobelGiday/candy_sales/blob/main/date_details.csv).
+The date table can be found [here](https://github.com/RobelGiday/candy_sales/blob/main/assets/clean%20datasets/date_details.csv).
 
-The SQL queries utilised to clean, organise, and prepare raw data for the dashboard can be found [here](https://github.com/RobelGiday/candy_sales/blob/main/Data%20Cleaning%20US%20Candy%20Distributor.sql).
+The SQL queries utilised to clean, organise, and prepare raw data for the dashboard can be found [here](https://github.com/RobelGiday/candy_sales/blob/main/assets/Data%20Cleaning%20US%20Candy%20Distributor.sql).
 
-An interactive Power BI dashboard can be downloaded [here](https://github.com/RobelGiday/candy_sales/raw/refs/heads/main/Candy_Sales.pbix).
+An interactive Power BI dashboard can be downloaded [here](https://github.com/RobelGiday/candy_sales/raw/refs/heads/main/assets/Candy_Sales.pbix).
 
 ## Data Structure
 The US Candy Distributor database structure, as seen in Figure 1 consists of six tables: date, location, candy_sales, candy_products, candy_targets and candy_factories with a total row count of 13 993 records. This analysis does not include the candies sales to Canada.
