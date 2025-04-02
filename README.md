@@ -44,7 +44,8 @@ An interactive Power BI dashboard can be downloaded [here](https://github.com/Ro
 The US Candy Distributor database structure, as seen in Figure 1 consists of six tables: date, location, candy_sales, candy_products, candy_targets and candy_factories with a total row count of 13 993 records. This analysis does not include the candies sales to Canada.
 
 #### Figure 1: Entity Relationship Diagram
-![ERD](candy_sales_ERD.png)
+![ERD](assets/images/candy_sales_ERD.png)
+
 
 ## Executive Summary
 ### Overview of Findings
@@ -59,7 +60,7 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
 * Profitability: Gross profit reached $30K in 2024.
 
 #### Figure 2: Overview Dashboard
-![overview](overview.png)
+![overview](assets/images/overview.png)
 
 ### Factory Sales Insight for 2024
 * Factory Performance
@@ -74,7 +75,7 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
     * Limited usage of Same Day shipping of 177 transactions suggests it is less critical to overall operations.
 
 #### Figure 3: Factory Sales 2024 Dashboard 
-![factory](factory.png)
+![factory](assets/images/factory.png)
  
 ### Candy Sales Insight for 2024
 * Product Performance
@@ -91,13 +92,13 @@ From 2021 to 2024, the total sales increased steadily, with the highest revenue 
     * There is potential for market penetration in highly populated states such as California, Texas and Florida.
  
 #### Figure 4: Candy Sales 2024 Dashboard
-![candy](candy.png)
+![candy](assets/images/candy.png)
 
 #### Figure 5: Candy Sales 2024 Q4 Dashboard
-![candy_sales_2024_Q4](candy_sales_insights_2024_q4.png)
+![candy_sales_2024_Q4](assets/images/candy_sales_insights_2024_q4.png)
 
 #### Figure 6: Wicked Choccy's Candy Sales 2024 Dashboard
-![Wicked](wicked_choccy_2024_sales.png)
+![Wicked](assets/images/wicked_choccy_2024_sales.png)
 
 ## Recommendations
 *	Improvement
